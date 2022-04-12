@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luckyxsky.github.io</id>
     <title>哈呼呼</title>
-    <updated>2022-04-12T11:26:37.274Z</updated>
+    <updated>2022-04-12T12:59:12.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://luckyxsky.github.io"/>
     <link rel="self" href="https://luckyxsky.github.io/atom.xml"/>
@@ -10,32 +10,6 @@
     <logo>https://luckyxsky.github.io/images/avatar.png</logo>
     <icon>https://luckyxsky.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 哈呼呼</rights>
-    <entry>
-        <title type="html"><![CDATA[test003]]></title>
-        <id>https://luckyxsky.github.io/post/test003/</id>
-        <link href="https://luckyxsky.github.io/post/test003/">
-        </link>
-        <updated>2022-04-12T11:18:04.000Z</updated>
-        <summary type="html"><![CDATA[<p>picture<br>
-😚</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>picture<br>
-😚</p>
-<!-- more -->
-<figure data-type="image" tabindex="1"><img src="https://luckyxsky.github.io/post-images/1649762441198.png" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[测试用例]]></title>
-        <id>https://luckyxsky.github.io/post/test/</id>
-        <link href="https://luckyxsky.github.io/post/test/">
-        </link>
-        <updated>2022-04-09T14:27:38.000Z</updated>
-        <content type="html"><![CDATA[<p>hello world.</p>
-<p>https://github.com/luckyxsky/luckyxsky.github.io/blob/main/images/tdwj.jpg</p>
-<figure data-type="image" tabindex="1"><img src="https://github.com/luckyxsky/luckyxsky.github.io/blob/main/images/tdwj.jpg" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://luckyxsky.github.io/post/hello-gridea/</id>
