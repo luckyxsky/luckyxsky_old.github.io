@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luckyxsky.github.io</id>
     <title>哈呼呼</title>
-    <updated>2022-04-12T11:21:02.321Z</updated>
+    <updated>2022-04-12T11:26:37.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://luckyxsky.github.io"/>
     <link rel="self" href="https://luckyxsky.github.io/atom.xml"/>
@@ -23,24 +23,6 @@
 😚</p>
 <!-- more -->
 <figure data-type="image" tabindex="1"><img src="https://luckyxsky.github.io/post-images/1649762441198.png" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[test002]]></title>
-        <id>https://luckyxsky.github.io/post/test002/</id>
-        <link href="https://luckyxsky.github.io/post/test002/">
-        </link>
-        <updated>2022-04-12T11:10:11.000Z</updated>
-        <content type="html"><![CDATA[<p>222</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[test001]]></title>
-        <id>https://luckyxsky.github.io/post/test001/</id>
-        <link href="https://luckyxsky.github.io/post/test001/">
-        </link>
-        <updated>2022-04-12T11:09:59.000Z</updated>
-        <content type="html"><![CDATA[<p>111</p>
 ]]></content>
     </entry>
     <entry>
